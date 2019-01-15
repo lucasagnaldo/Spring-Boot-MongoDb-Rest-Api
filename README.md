@@ -16,7 +16,7 @@ Para executar a instalação, desenvolvimento e testes deverá ter instalado as 
 
 
 ### Testes
-<img src="images/post-pessoa.png" width="1300" heigth="1000" >
+<img src="images/post-pessoa.png" width="800" heigth="500" >
 
 
 ## Author
