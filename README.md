@@ -16,7 +16,7 @@ Para executar a instalação, desenvolvimento e testes deverá ter instalado as 
 
 
 ### Testes
-![select-mongo-compass](https://user-images.githubusercontent.com/8337669/51216192-a0d21280-190a-11e9-9eec-1a4f1d557ac4.png)
+<img src="images/post-pessoa.png" width="100" >
 
 
 ## Author
