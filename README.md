@@ -17,17 +17,17 @@ Para executar a instalação, desenvolvimento e testes deverá ter instalado as 
 
 ### Testes
 
-### POST - localhost:8080/pessoa
+> POST - localhost:8080/pessoa
 <img src="images/post-pessoa.png" width="600" heigth="400" >
 
-### GET - localhost:8080/pessoa
+> GET - localhost:8080/pessoa
 <img src="images/get-pessoa.png" width="600" heigth="400" >
 
-### GET - localhost:8080/pessoa/search/findByNome?nome=João dos Santos
+> GET - localhost:8080/pessoa/search/findByNome?nome=João dos Santos
 <img src="images/get-by-nome.png" width="600" heigth="400" >
 
-### MongoDB Compass
-<img src="select-mongo-compass.png" width="600" heigth="400" >
+> MongoDB Compass
+<img src="images/select-mongo-compass.png" width="600" heigth="400" >
 
 
 ## Author
